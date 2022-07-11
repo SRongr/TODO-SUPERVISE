@@ -19,6 +19,6 @@ module.exports = {
   ],
   rules: {
     "no-console": 2,
-    "rong/todo-supervise": 2
+    "rong/todo-supervise": [2, true, { warnLine: 10}]
   }
 };
