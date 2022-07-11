@@ -1,6 +1,11 @@
 # eslint-plugin-rong
 
-检测代码中的todo项 是否描述清楚，时间是否在允许范围内
+eslint-rong 合集，目前包含todo-supervise
+```json
+{
+    "todo-supervise": "检测代码中的todo项 是否描述清楚，时间是否在允许范围内"
+}
+```
 
 ## Installation
 

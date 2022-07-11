@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-rong",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "eslint-rong 合集，目前包含todo-supervise",
   "keywords": [
     "eslint",
