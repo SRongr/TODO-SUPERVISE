@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-todo-supervise",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "检测代码中的todo项 是否描述清楚，时间是否在允许范围内",
   "keywords": [
     "eslint",
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "dayjs": "^1.11.3",
+    "eslint-plugin-todo-supervise": "^0.0.1",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {

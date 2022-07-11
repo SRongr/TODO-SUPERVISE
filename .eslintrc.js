@@ -7,6 +7,7 @@ module.exports = {
     "plugin:eslint-plugin/recommended",
     "plugin:node/recommended"
   ],
+  plugins: ["todo-supervise"],
   env: {
     node: true,
   },
@@ -17,6 +18,7 @@ module.exports = {
     },
   ],
   rules: {
-    "no-console": 2
+    "no-console": 2,
+    "todo-supervise": 2
   }
 };

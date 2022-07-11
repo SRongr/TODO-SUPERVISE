@@ -268,6 +268,14 @@ eslint-plugin-node@^11.1.0:
     resolve "^1.10.1"
     semver "^6.1.0"
 
+eslint-plugin-todo-supervise@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-todo-supervise/-/eslint-plugin-todo-supervise-0.0.1.tgz#2ae0aa596f13fe09a3b302e76e697663fae30a5a"
+  integrity sha512-ztXBUdNGG3mgTzVHJwCbmDh74nWHT1+15bDl0R702RQXQ+Hwgg2mBm6OZxBdFRONuvM5xAMivYmIcjLUmd+2Ig==
+  dependencies:
+    dayjs "^1.11.3"
+    requireindex "^1.2.0"
+
 eslint-scope@^7.1.1:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-7.1.1.tgz#fff34894c2f65e5226d3041ac480b4513a163642"
