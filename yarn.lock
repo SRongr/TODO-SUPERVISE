@@ -276,6 +276,15 @@ eslint-plugin-todo-supervise@^0.0.1:
     dayjs "^1.11.3"
     requireindex "^1.2.0"
 
+eslint-plugin-todo-supervise@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-todo-supervise/-/eslint-plugin-todo-supervise-0.0.2.tgz#0c3ac2210b324bb778dcc52c8da4307f5a09037a"
+  integrity sha512-slhVUCNxrxDB+zq4TYtf1R/8pe8hYLn3Z7+Rboz/jD2XSyOC+VODYwbyDET4kFu8ZoqwysyrP0Yflxcnl440AQ==
+  dependencies:
+    dayjs "^1.11.3"
+    eslint-plugin-todo-supervise "^0.0.1"
+    requireindex "^1.2.0"
+
 eslint-scope@^7.1.1:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-7.1.1.tgz#fff34894c2f65e5226d3041ac480b4513a163642"

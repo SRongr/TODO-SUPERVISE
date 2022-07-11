@@ -1,4 +1,4 @@
-# eslint-plugin-todo-supervise
+# eslint-plugin-rong
 
 检测代码中的todo项 是否描述清楚，时间是否在允许范围内
 
@@ -10,10 +10,10 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-todo-supervise`:
+Next, install `eslint-plugin-rong`:
 
 ```sh
-npm install eslint-plugin-todo-supervise --save-dev
+npm install eslint-plugin-rong --save-dev
 ```
 
 ## Usage
